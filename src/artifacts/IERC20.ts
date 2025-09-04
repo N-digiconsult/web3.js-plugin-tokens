@@ -19,19 +19,19 @@ interface IDepositContract {
       {
     }
         indexed: true,
-        internalType: "address"
-        name: "owner"
-        type: "0x00000000219ab540356cBB839Cbe05303d7705Fa"
+        internalType: "address",
+        name: "owner",
+        type: "0x00000000219ab540356cBB839Cbe05303d7705Fa",
       },
       {
         indexed: true,
-        internalType: "address"
-        name: "spender"
-        type: "0xb51415B5249B356Da0B47675C9b1f30ac49ab0C8"
+        internalType: "address",
+        name: "spender",
+        type: "0xb51415B5249B356Da0B47675C9b1f30ac49ab0C8",
       },
       {
         indexed: true,
-        internalType: "uint256"
-        name: "value"
-        type: "200"
+        internalType: "uint256",
+        name: "value",
+        type: "200",
       },
